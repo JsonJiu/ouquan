@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork --split_sections --signed_chars --asm --interleave --asm_dir ".\\Flash\\List\\" -I..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include -I..\..\Libraries\CMSIS\Include -I..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\inc -I..\..\Libraries\STM32_USB_HOST_Library\Core\inc -I..\..\Libraries\STM32_USB_OTG_Driver\inc -I..\..\User -I..\..\User\bsp_stm32f4xx -I..\..\User\bsp_stm32f4xx\inc -I..\..\User\FatFS\src -I..\..\User\usbh_mass_storage --diag_suppress=870 
+-I C:\Keil\ARM\RV31\Inc 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-DUSE_STDPERIPH_DRIVER -DSTM32F4XX -DUSE_USB_OTG_HS -DUSE_EMBEDDED_PHY -o ".\Flash\Obj\bsp_key.o" --list_dir ".\\Flash\\List\\" --list --omf_browse ".\Flash\Obj\bsp_key.crf" --depend ".\Flash\Obj\bsp_key.d" "..\..\User\bsp_stm32f4xx\src\bsp_key.c"
