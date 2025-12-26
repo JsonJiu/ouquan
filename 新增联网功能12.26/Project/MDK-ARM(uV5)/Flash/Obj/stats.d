@@ -1,0 +1,9 @@
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\src\core\stats.c
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\stats.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\stats.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\stats.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h

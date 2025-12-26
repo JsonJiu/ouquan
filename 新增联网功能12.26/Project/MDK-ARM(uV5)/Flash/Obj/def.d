@@ -1,0 +1,10 @@
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\core\def.c
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\def.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\def.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\obj\def.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/def.h

@@ -1,0 +1,12 @@
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\core\ipv4\inet.c
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\inet.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\inet.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\ipv4\lwip/inet.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/def.h
+.\flash\obj\inet.o: ..\..\SYSTEM\lwip-1.4.1\src\include\ipv4\lwip/ip_addr.h

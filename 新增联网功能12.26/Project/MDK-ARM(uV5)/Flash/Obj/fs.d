@@ -1,0 +1,14 @@
+.\flash\obj\fs.o: ..\..\SYSTEM\http\fs.c
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\fs.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\fs.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\obj\fs.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/def.h
+.\flash\obj\fs.o: ..\..\SYSTEM\http\fs.h
+.\flash\obj\fs.o: ..\..\SYSTEM\http\fsdata.h
+.\flash\obj\fs.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\obj\fs.o: ..\..\SYSTEM\http\fsdata.c

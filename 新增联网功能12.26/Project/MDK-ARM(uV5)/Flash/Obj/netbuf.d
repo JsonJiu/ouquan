@@ -1,0 +1,9 @@
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\src\api\netbuf.c
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\netbuf.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\netbuf.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h

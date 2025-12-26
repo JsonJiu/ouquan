@@ -1,0 +1,10 @@
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\api\netdb.c
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/netdb.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\http\lwipopts.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/debug.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/arch.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cc.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\port\arch/cpu.h
+.\flash\obj\netdb.o: ..\..\SYSTEM\lwip-1.4.1\src\include\lwip/opt.h
+.\flash\obj\netdb.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
