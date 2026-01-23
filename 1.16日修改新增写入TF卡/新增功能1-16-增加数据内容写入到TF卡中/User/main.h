@@ -1,0 +1,30 @@
+/***********************************************************************
+文件名称：main.h
+功    能：
+编写时间：
+编 写 人：
+注    意：
+***********************************************************************/
+#ifndef _MAIN_H_
+#define _MAIN_H_
+
+#include "stm32f4xx.h"
+#include <stdio.h>
+#include <stdarg.h>
+#include "stm32f4xx_rcc.h"
+#include "timer.h"
+#include "led.h"
+#include "pwm.h"
+#include "DMAPWM.h"
+#include <string.h>
+#include "HONG.h"
+#include "USART.h"
+#include "DMA.h"
+#include "delay.h"
+#include "RS232.h"
+#include "usbh_bsp_msc.h"
+#include "demo_sdio_fatfs.h"
+#include "version.h"
+
+#endif
+
