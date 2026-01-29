@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/BaiduNetdiskDownload/在此基础增加写入csv文件/新增打印功能12.24-修改按下启动打印按钮即生成控件/User",
+      "program": "d:/BaiduNetdiskDownload/在此基础增加写入csv文件/新增打印功能12.24-修改按下启动打印按钮即生成控件/User/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
