@@ -64,7 +64,7 @@ void Usart6_Init(void) // 1.初始化串口
 	GPIO_Init(GPIOC, &GPIO_InitStructure);
 
 	/*  配置串口硬件参数 */
-	USART_InitStructure.USART_BaudRate = 19200;										// 波特率设置
+	USART_InitStructure.USART_BaudRate = 9600;										// 波特率设置
 	USART_InitStructure.USART_WordLength = USART_WordLength_8b;						// 字长为8位数据格式
 	USART_InitStructure.USART_StopBits = USART_StopBits_1;							// 一个停止位
 	USART_InitStructure.USART_Parity = USART_Parity_No;								// 无奇偶校验位
