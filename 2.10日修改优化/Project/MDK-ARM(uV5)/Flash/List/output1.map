@@ -3016,45 +3016,45 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       160         22          0         13         48       2869   bsp_timer.o
-       180         18     175304          0          0       2743   cc936.o
-       160          0          0          0          0       2404   crc.o
-      1920        572          0         29       4164      31169   demo_fatfs.o
-       328         34          0          0          0       4596   diskio.o
+       160         22          0         13         48       2873   bsp_timer.o
+       180         18     175304          0          0       2747   cc936.o
+       160          0          0          0          0       2412   crc.o
+      1920        572          0         29       4164      31181   demo_fatfs.o
+       328         34          0          0          0       4600   diskio.o
        344         40          0          0        510       2611   dma.o
        128         14          0          0       4000       1168   dmapwm.o
-      8280         92         13          2         48      44409   ff.o
-       164         32          0          2          0       1829   led.o
-        72         12          0          0          0     274015   main.o
-       160         32          0          0          0       2409   misc.o
-       260         12          0          0          0       1732   pwm.o
-       472         30          0          8        100       3990   rs232.o
+      8280         92         13          2         48      44449   ff.o
+       164         32          0          2          0       1833   led.o
+        72         12          0          0          0     274019   main.o
+       160         32          0          0          0       2417   misc.o
+       260         12          0          0          0       1736   pwm.o
+       472         30          0          8        100       3994   rs232.o
         36          8        392          0      24576        940   startup_stm32f4xx.o
-       606         54          0          0          0       6891   stm32f4xx_dma.o
+       606         54          0          0          0       6895   stm32f4xx_dma.o
        222          0          0          0          0       3275   stm32f4xx_gpio.o
-       108         50          0          0          0       4168   stm32f4xx_it.o
-       392         48          0         16          0       6109   stm32f4xx_rcc.o
-       432         36          0          0          0       7572   stm32f4xx_tim.o
-       718         32          0          0          0       9477   stm32f4xx_usart.o
-       340         32          0          0          0       1681   system_stm32f4xx.o
+       108         50          0          0          0       4176   stm32f4xx_it.o
+       392         48          0         16          0       6113   stm32f4xx_rcc.o
+       432         36          0          0          0       7576   stm32f4xx_tim.o
+       718         32          0          0          0       9493   stm32f4xx_usart.o
+       340         32          0          0          0       1689   system_stm32f4xx.o
        148         14          0          0          0       1130   timer.o
-      2590        498         72         10         16       9703   usart.o
-       414         16          0          8          0       6708   usb_bsp.o
-      3020         18          0          0          0      20231   usb_core.o
+      2590        498         72         10         16       9723   usart.o
+       414         16          0          8          0       6716   usb_bsp.o
+      3020         18          0          0          0      20251   usb_core.o
        202          0          0          0          0       5699   usb_hcd.o
-      3702         16          0          0          0      11071   usb_hcd_int.o
-      1634         42          0         18          0       9689   usbh_core.o
-       390          0          0          0          0       4988   usbh_hcs.o
-       560          0          0          0          0       6070   usbh_ioreq.o
+      3702         16          0          0          0      11079   usb_hcd_int.o
+      1634         42          0         18          0       9709   usbh_core.o
+       390          0          0          0          0       4996   usbh_hcs.o
+       560          0          0          0          0       6078   usbh_ioreq.o
         24          6          0          0          0       1066   usbh_it.o
       1140        100          0         17         64      15017   usbh_msc_bot.o
-       876         62          0         29        522       7161   usbh_msc_core.o
-      1312         88          0          1       1040       7792   usbh_msc_scsi.o
-       942         14          0          3        512      11233   usbh_stdreq.o
-       644        350        425         77       1584      12437   usbh_usr.o
+       876         62          0         29        522       7169   usbh_msc_core.o
+      1312         88          0          1       1040       7804   usbh_msc_scsi.o
+       942         14          0          3        512      11257   usbh_stdreq.o
+       644        350        425         77       1584      12461   usbh_usr.o
 
     ----------------------------------------------------------------------
-     33122       2394     176239        252      37188     546052   Object Totals
+     33122       2394     176239        252      37188     546352   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         42          0          1         19          4          0   (incl. Padding)
 
@@ -3130,8 +3130,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     38832       2570     176372        260      37188     521412   Grand Totals
-     38832       2570     176372        260      37188     521412   ELF Image Totals
+     38832       2570     176372        260      37188     521712   Grand Totals
+     38832       2570     176372        260      37188     521712   ELF Image Totals
      38832       2570     176372        260          0          0   ROM Totals
 
 ==============================================================================
